@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="104" viewBox="0 0 760 104" role="img" aria-labelledby="title desc">
+  <title id="title">Zhongwen-4 Fraq Plugins</title>
+  <desc id="desc">Zhongwen-4 Fraq Plugins in gradient lettering</desc>
+  <defs>
+    <linearGradient id="text-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00c6ff" />
+      <stop offset="50%" stop-color="#7b61ff" />
+      <stop offset="100%" stop-color="#ff4d8d" />
+    </linearGradient>
+  </defs>
+  <text
+    x="380"
+    y="70"
+    fill="url(#text-gradient)"
+    font-family="Segoe UI, Arial, sans-serif"
+    font-size="52"
+    font-weight="700"
+    text-anchor="middle"
+  >Zhongwen-4 Fraq Plugins</text>
+</svg>
